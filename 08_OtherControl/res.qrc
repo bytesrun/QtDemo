@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/Couple.bmp</file>
+        <file>Image/DRAGON_256_1.bmp</file>
+        <file>Image/dragon1.bmp</file>
+        <file>Image/gif.gif</file>
+        <file>Image/heci1.bmp</file>
+        <file>Image/rec1.bmp</file>
+        <file>Image/rec2.bmp</file>
+        <file>Image/test.bmp</file>
+    </qresource>
+</RCC>
